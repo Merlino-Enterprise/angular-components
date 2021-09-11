@@ -1,0 +1,37 @@
+[
+  {
+    "id": {
+      "scope": "teambit.angular",
+      "name": "angular-v12"
+    },
+    "head": "b6afbc64924c324e48fcc3353b1a3db4ebdf43b6"
+  },
+  {
+    "id": {
+      "scope": "teambit.angular",
+      "name": "angular"
+    },
+    "head": "1aa08a3127d6c032985fdbcbd4cdcc2a1d91fb9a"
+  },
+  {
+    "id": {
+      "scope": "teambit.angular",
+      "name": "angular-eslint-config"
+    },
+    "head": "6a659ada43509ae23356a7042c2f6a4fad111a6e"
+  },
+  {
+    "id": {
+      "scope": "teambit.angular",
+      "name": "ng-packagr"
+    },
+    "head": "de76036a02553b51c99077819e9426390f44bb7d"
+  },
+  {
+    "id": {
+      "scope": "teambit.angular",
+      "name": "angular-v11"
+    },
+    "head": "6a78d5e98d36630b5537430c2654828a8cb80f5d"
+  }
+]

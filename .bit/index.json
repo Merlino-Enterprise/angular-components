@@ -1,0 +1,45 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "teambit.angular",
+        "name": "angular-v12"
+      },
+      "isSymlink": false,
+      "hash": "de5f97387d01ff400911b3f02d597c5a371eb65b"
+    },
+    {
+      "id": {
+        "scope": "teambit.angular",
+        "name": "angular"
+      },
+      "isSymlink": false,
+      "hash": "530035d76c1b46522c76fa086826b3187f153ef3"
+    },
+    {
+      "id": {
+        "scope": "teambit.angular",
+        "name": "angular-eslint-config"
+      },
+      "isSymlink": false,
+      "hash": "82d46436d82260d8d59be7f0c1faf4903caa8706"
+    },
+    {
+      "id": {
+        "scope": "teambit.angular",
+        "name": "ng-packagr"
+      },
+      "isSymlink": false,
+      "hash": "5ae276e00390d0f83d13e64443d330f6a108c6dc"
+    },
+    {
+      "id": {
+        "scope": "teambit.angular",
+        "name": "angular-v11"
+      },
+      "isSymlink": false,
+      "hash": "11debadb97c9006b98dbb261ff9760034e517a7d"
+    }
+  ],
+  "lanes": []
+}
