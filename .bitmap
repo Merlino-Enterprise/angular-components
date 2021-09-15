@@ -9,11 +9,11 @@
  */
 
 {
-    "ui/my-button": {
+    "ui/multi-select": {
         "scope": "",
         "version": "",
         "mainFile": "public-api.ts",
-        "rootDir": "angular/ui/my-button"
+        "rootDir": "angular/ui/multi-select"
     },
     "$schema-version": "14.9.0"
 }
